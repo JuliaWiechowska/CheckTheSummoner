@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="check_the_summoner">CHECK THE SUMMONER</string>
+    <string name="choose_region">Choose region</string>
+    <string name="summoner">Summoner</string>
+    <string name="search">Search</string>
+    <string name="continuee">Continue</string>
+</resources>
